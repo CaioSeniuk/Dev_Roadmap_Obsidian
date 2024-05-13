@@ -6,4 +6,4 @@ Baixe o arquivo .zip e descompacte
 
 Depois abra um "vault" existente e selecione esta pasta descompactada
 
-Abra o aplicativo Obdsidian
+Os roadmaps são as listagens de cursos disponíveis para cada área
