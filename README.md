@@ -1,5 +1,4 @@
-ROADMAP feito com base nos cursos do dio.me
-
+ROADMAP feito para alunos da plataforma DIO.me
 
 Baixe o aplicativo Obsidian
 
